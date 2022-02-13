@@ -1,0 +1,8 @@
+1 .  (“Chennai Super Kings”,12,117,5,"Mahendra Singh Dhoni",”India Cements”)
+2 .  (“Royal Challengers Bangalore”,14,98,3,"Virat Kohli",”United Spirits”)
+3 .  (“Punjab Kings”,14,204,1,"KL Rahul",”PZNZ Media”)
+4 .  (“Rajasthan Royals”,12,175,3,"Sanju Samson",”Manoj Badale”)
+5 .  (“Delhi Capitals”,12,89,1,"Rishabh Pant",”GMR Group”)
+6 .  (“Sunrisers Hyderabad”,9,68,2,"David Warner",”Kalanithi Maran”)
+7 .  (“Kolkata Knight Riders”,14,97,2,"Eoin Morgan",”Shah Rukh Khan”)
+8 .  (“Mumbai Indians”,14,125,6,"Rohit Sharma",”Mukesh Ambani”)
