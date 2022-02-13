@@ -21,7 +21,7 @@
 21 .  ('Delhi Capitals', 'Kagiso Rabada', 39, 1.11, 0.09, 'Bowler', 12, 97, datetime.date(2004, 6, 10))
 22 .  ('Delhi Capitals', 'Tom Curran', 27, 1.23, 2.09, 'Bowler', 22, 94, datetime.date(2010, 7, 11))
 23 .  ('Kolkata Knight Riders', 'Nitish Rana', 98, 8.93, 9.02, 'Batsman', 187, 0, datetime.date(2002, 5, 17))
-24 .  ('Kolkata Knight Riders', 'Harbhajan Singh', 3, 1.21, 3.78, 'Bowler', 23, 110, datetime.date(2000, 10, 25))
+24 .  ('Kolkata Knight Riders', 'Harbhajan Singh', 3, 1.21, 3.78, 'Bowler', 110, 23, datetime.date(2000, 10, 25))
 25 .  ('Kolkata Knight Riders', 'Rahul Tripathi', 11, 7.34, 7.89, 'Batsman', 135, 0, datetime.date(1996, 6, 2))
 26 .  ('Kolkata Knight Riders', 'Andre Russel', 24, 7.89, 8.33, 'Batsman', 127, 0, datetime.date(1995, 4, 21))
 27 .  ('Kolkata Knight Riders', 'Pat Cummins', 30, 2.13, 4.89, 'AllRounder', 94, 91, datetime.date(2009, 3, 5))
