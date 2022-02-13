@@ -1,4 +1,4 @@
-1 .  ('Chennai Super Kings', 'Faf Du Plessis', 43, 2.21, 5.11, 'Batsman', 51, 0, datetime.date(2003, 2, 20))
+1 .  ('Chennai Super Kings', 'Faf Du Plessis', 43, 2.22, 5.11, 'Batsman', 51, 0, datetime.date(2003, 2, 20))
 2 .  ('Chennai Super Kings', 'Ambati Rayudu', 66, 6.81, 4.32, 'Batsman', 93, 1, datetime.date(2010, 4, 22))
 3 .  ('Chennai Super Kings', 'Ravindra Jadeja', 8, 2.43, 6.32, 'AllRounder', 99, 34, datetime.date(2005, 7, 19))
 4 .  ('Chennai Super Kings', 'Shardul Thakur', 11, 5.89, 4.23, 'AllRounder', 103, 88, datetime.date(2012, 11, 23))
