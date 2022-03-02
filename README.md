@@ -1,9 +1,9 @@
-This is the REPO repository!
+### This is the REPO repository!
 
-[DISCORD-BOT repository](https://github.com/mvdmCricNews/DISCORD-BOT)
+[**DISCORD-BOT repository**](https://github.com/mvdmCricNews/DISCORD-BOT)
 
 
-[MAIN-CODE repository](https://github.com/mvdmCricNews/MAIN-CODE)
+[**MAIN-CODE repository**](https://github.com/mvdmCricNews/MAIN-CODE)
 
 
 # mvdmCricNews
