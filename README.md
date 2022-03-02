@@ -1,3 +1,11 @@
+This is the REPO repository!
+
+[DISCORD-BOT repository](https://github.com/mvdmCricNews/DISCORD-BOT)
+
+
+[MAIN-CODE repository](https://github.com/mvdmCricNews/MAIN-CODE)
+
+
 # mvdmCricNews
 
 ## Our Aim:
